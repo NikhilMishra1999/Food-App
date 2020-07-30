@@ -2,7 +2,7 @@ package com.example.nikhil.food4foodies;
 
 import android.content.Intent;
 import android.os.Handler;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class SplashActivity extends AppCompatActivity {
@@ -15,7 +15,7 @@ public class SplashActivity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable(){
             @Override
             public void run() {
-                Intent in = new Intent(SplashActivity.this,signup.class);
+                Intent in = new Intent(SplashActivity.this,MainActivity.class);
                 startActivity(in);
                 finish();
             }

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Food4Foodies.iml" filepath="$PROJECT_DIR$/Food4Foodies.iml" group="Food4Foodies" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Food4Foodies/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Fixing nav.iml" filepath="$PROJECT_DIR$/.idea/Fixing nav.iml" group="Fixing nav" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Fixing nav/app" />
     </modules>
   </component>
 </project>

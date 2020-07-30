@@ -8,14 +8,14 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:278095688152:android:81ab79b31d4e18e47c42ad",
+        "mobilesdk_app_id": "1:278095688152:android:3550a61abf1b402c7c42ad",
         "android_client_info": {
           "package_name": "com.example.nikhil.food4foodies"
         }
       },
       "oauth_client": [
         {
-          "client_id": "278095688152-v4i0iir1nb1o8389orm8t3703k1h4hjl.apps.googleusercontent.com",
+          "client_id": "278095688152-r6lh0cs1k82i6gk9p0o8ndiclp107j4v.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.nikhil.food4foodies",

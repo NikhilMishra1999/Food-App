@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.nikhil.food4foodies.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home2" />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.nikhil.food4foodies.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/nav_help"
+        android:name="com.example.nikhil.food4foodies.HelpFragment"
+        android:label="Help"
+        tools:layout="@layout/fragment_help" />
+    <fragment
+        android:id="@+id/nav_signout"
+        android:name="com.example.nikhil.food4foodies.SignoutFragment"
+        android:label="signout"
+        tools:layout="@layout/fragment_signout" />
+    <fragment
+        android:id="@+id/nav_share"
+        android:name="com.example.nikhil.food4foodies.ShareFragment"
+        android:label="share"
+        tools:layout="@layout/fragment_share" />
+    <fragment
+        android:id="@+id/navigation_menu"
+        android:name="com.example.nikhil.food4foodies.MenuFragment"
+        android:label="Menu"
+        tools:layout="@layout/fragment_menu" />
+</navigation>
