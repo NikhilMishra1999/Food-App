@@ -7,6 +7,6 @@ and also feed their hunger on the go.
 ## **Development Tools Used**
 * Language- Java
 * Enviroment- Android Studio
-
+* Database- Amazon Firestore
 
 
