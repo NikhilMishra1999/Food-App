@@ -4,7 +4,7 @@ can place orders from different cafes within the campus and have it ready
 when they arrive at the cafe. It is designed so as to save time of the students
 and also feed their hunger on the go.
 
-## **Development Tools Used**
+## **Development Tools and tachnology Used**
 * Language- Java
 * Enviroment- Android Studio
 * Database- Amazon Firestore
