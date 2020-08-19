@@ -10,4 +10,7 @@ and also feed their hunger on the go.
 * Database- Amazon Firestore
 * ChatBot -IBM watson
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 
