@@ -10,6 +10,6 @@ and also feed their hunger on the go.
 * Database- Amazon Firestore
 * ChatBot -IBM watson
 
-![image](C:/Users/user/Downloads/food4foodies.png)
+![image](images/food4foodies.png)
 
 
