@@ -1,4 +1,4 @@
-![image](images/food4foodies.png)
+![image](images/food4foodies.png align="left")
 # **Food4Foodies**
 An app for students to order food on campus. Registered students
 can place orders from different cafes within the campus and have it ready
