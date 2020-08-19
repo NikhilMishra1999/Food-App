@@ -1,4 +1,4 @@
-# **Food4Foodies** <img src="https://github.com/NikhilMishra1999/Food-App/blob/master/images/food4foodies.png" height="50" align="right">
+# **Food4Foodies** <img src="https://github.com/NikhilMishra1999/Food-App/blob/master/images/food4foodies.png" align="right">
 An app for students to order food on campus. Registered students
 can place orders from different cafes within the campus and have it ready
 when they arrive at the cafe. It is designed so as to save time of the students
