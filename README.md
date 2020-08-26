@@ -1,15 +1,1 @@
-# **Food4Foodies** <img src="https://github.com/NikhilMishra1999/Food-App/blob/master/images/food4foodies.png" align="right">
-An app for students to order food on campus. Registered students
-can place orders from different cafes within the campus and have it ready
-when they arrive at the cafe. It is designed so as to save time of the students
-and also feed their hunger on the go.
-
-## **Development Tools and technology Used**
-* Language- Java
-* Enviroment- Android Studio
-* Database- Amazon Firestore
-* ChatBot -IBM watson
-
-
-
-
+The Chatbot is IBM Chatbot where i made some changes and implemented in our project for the help of customer through feedbacks and queries. This application can be used in any organization for pre-order which will consume there time.
