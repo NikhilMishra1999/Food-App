@@ -1,1 +1,0 @@
-The Chatbot is IBM Chatbot where i made some changes and implemented in our project for the help of customer through feedbacks and queries. This application can be used in any organization for pre-order which will consume there time.
