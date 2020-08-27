@@ -1,5 +1,6 @@
 # Food4Foodies
 We've Created an Android App focused on catering college students/staff with optimized Food Orders for in-or-off Campus Food Vendors. This application uses data from reviews, feedback and types of order for effective Food ordering System.
+
  ----------------
 ## Technology Used
 1. Android
