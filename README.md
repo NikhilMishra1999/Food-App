@@ -10,8 +10,8 @@ We've Created an Android App focused on catering college students/staff with opt
 
 ## Apllication 
 ### The Main Screen:  
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/splash%20screen.jpg" width="200" height="350" align="center" style="border: 100">
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/main%20screen.jpg" width="200" height="350" align="right">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/splash%20screen.jpg" width="200" height="350" align="left" style="border: 100px">
+<img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/main%20screen.jpg" width="200" height="350" align="center">
 
 ### Login & Verification:
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/sign%20up%20screen.jpg" width="200" height="350" align="left">
