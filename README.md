@@ -26,10 +26,13 @@ We've Created an Android App focused on catering college students/staff with opt
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/menu%20screen.jpg" width="200" height="350" align="left">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/cart%20screen.jpg" width="200" height="350" align="center">
 
-## The Rate & Share Screen
+### The Rate & Share Screen:
 > The order once delivered can be rated and reviewed with additional feedback. The data is stored on the database and is linked to the particular order. This can be reviewed by the Vendor or Admin at any time.
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/rate%20us%20screen.jpg" width="200" height="350" align="left">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/share%20app%20screen.jpg" width="200" height="350" align="center">
+
+### Our Custome Support:
+<img src="https://github.com/NikhilMishra1999/Food-App/blob/master/images/chatbot.jpg" width="200" height="350" align="left">
 
 ----------------
 ## Limitations
