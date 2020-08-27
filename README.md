@@ -32,5 +32,3 @@ We've Created an Android App focused on catering college students/staff with opt
 ----------------
 ## Limitations
 1. Internet connection is must for running the app.
-
-
