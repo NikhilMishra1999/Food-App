@@ -16,12 +16,10 @@ We've Created an Android App focused on catering college students/staff with opt
 > Login & Verification:
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/sign%20up%20screen.jpg" width="200" height="350" align="left">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/otp%20verification.jpg" width="200" height="350" align="center">
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/login%20screen.jpg" width="200" height="350" align="right">
 
 > The Menu Screen:
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/menu%20screen.jpg" width="200" height="350" align="left">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/cart%20screen.jpg" width="200" height="350" align="center">
-<img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/navigation%20bar.jpg" width="200" height="350" align="right">
 
 >The Rate & Share Screen
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/rate%20us%20screen.jpg" width="200" height="350" align="left">
