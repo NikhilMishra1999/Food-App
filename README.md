@@ -11,11 +11,11 @@ We've Created an Android App focused on catering college students/staff with opt
 ----------------
 ## A Tour D'Horizon 
 ### The Main Screen:  
-> the Application has an active login system, which can be used to log in via 4 methods: Email address, Phone Number, Google, and Facebook. All the login data is stored on the database at Firebase.
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/splash%20screen.jpg" width="200" height="350" align="left">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/main%20screen.jpg" width="200" height="350" align="center">
 
 ### Login & Verification:
+> The Application has an active login system, which can be used to log in via 4 methods: Email address, Phone Number, Google, and Facebook. All the login data is stored on the database at Firebase.
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/sign%20up%20screen.jpg" width="200" height="350" align="left">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/otp%20verification.jpg" width="200" height="350" align="center">
 
