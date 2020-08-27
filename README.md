@@ -8,6 +8,7 @@ We've Created an Android App focused on catering college students/staff with opt
 3. XML
 4. FiresBase
 5. FireStore
+6. IBM Watson (Chatbot)
 ----------------
 ## A Tour D'Horizon 
 ### The Main Screen:  
@@ -36,7 +37,7 @@ We've Created an Android App focused on catering college students/staff with opt
 
 ----------------
 ##  Developers:
-:e-mail: ashishkumarpandey2000@gmail.com
+:e-mail: [Ashish Pandey](https://github.com/ASHISH-KUMAR-PANDEY)
 :e-mail: Surabhiraj.rs@gmail.com
 :e-mail: thapashanu56@gmail.com
 :e-mail: nikhil.1999stars@gmail.com
