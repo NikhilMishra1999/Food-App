@@ -8,16 +8,16 @@ We've Created an Android App focused on catering college students/staff with opt
 4. FiresBase
 5. FireStore
 
-### Apllication 
-> The Main Screen:
+## Apllication 
+### The Main Screen:
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/splash%20screen.jpg" width="200" height="350" align="left" style="border: 20">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/main%20screen.jpg" width="200" height="350" align="center">
 
-> Login & Verification:
+### Login & Verification:
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/sign%20up%20screen.jpg" width="200" height="350" align="left">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/otp%20verification.jpg" width="200" height="350" align="center">
 
-> The Menu Screen:
+### The Menu Screen:
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/menu%20screen.jpg" width="200" height="350" align="left">
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/cart%20screen.jpg" width="200" height="350" align="center">
 
