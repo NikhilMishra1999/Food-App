@@ -5,7 +5,7 @@ We've Created an Android App focused on catering college students/staff with opt
 1. Android
 2. Java
 3. XML
-4. Firebase
+4. Firestore
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/splash%20screen.jpg" width="270" height="520" align="left">
