@@ -38,6 +38,7 @@ We've Created an Android App focused on catering college students/staff with opt
 ----------------
 ##  Developers:
 :octocat: [Ashish Pandey](https://github.com/ASHISH-KUMAR-PANDEY)
-:octocat: [Surabhi Kumari](https://github.com/surabhiraj98)
-:octocat: [Nikhil Mishra](https://github.com/NikhilMishra1999)
 :octocat: [Mridul Thapa](https://github.com/samridul)
+:octocat: [Nikhil Mishra](https://github.com/NikhilMishra1999)
+:octocat: [Surabhi Kumari](https://github.com/surabhiraj98)
+
