@@ -33,3 +33,10 @@ We've Created an Android App focused on catering college students/staff with opt
 ----------------
 ## Limitations
 1. Internet connection is must for running the app.
+
+----------------
+##  Developers:
+:e-mail: ashishkumarpandey2000@gmail.com
+:e-mail: Surabhiraj.rs@gmail.com
+:e-mail: thapashanu56@gmail.com
+:e-mail: nikhil.1999stars@gmail.com
