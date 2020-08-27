@@ -33,7 +33,7 @@ We've Created an Android App focused on catering college students/staff with opt
 
 ### Our Custome Support:
 > We have also a very active and responsive customer care ChatBot. For this we have used IBM Watcon.
-<img src="https://github.com/NikhilMishra1999/Food-App/blob/master/images/chatbot.jpg" width="200" height="350" align="left">
+<img src="https://github.com/NikhilMishra1999/Food-App/blob/master/images/chatbot.jpg" width="200" height="350" align="center">
 
 ----------------
 ## Limitations
