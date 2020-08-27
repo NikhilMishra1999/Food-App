@@ -32,6 +32,7 @@ We've Created an Android App focused on catering college students/staff with opt
 <img src="https://raw.githubusercontent.com/NikhilMishra1999/Food-App/master/In-App%20Screenshots/share%20app%20screen.jpg" width="200" height="350" align="center">
 
 ### Our Custome Support:
+> We have also a very active and responsive customer care ChatBot. For this we have used IBM Watcon.
 <img src="https://github.com/NikhilMishra1999/Food-App/blob/master/images/chatbot.jpg" width="200" height="350" align="left">
 
 ----------------
